@@ -91,10 +91,23 @@ Applied sorting and checked those values individually to get better insights of 
 - Which payment methods lead to higher conversion rates?
 - How does occupation or income level influence purchase intent and frequency?
 
+```Check out EDA here:``` 
+
 
 ## Data Visualization
+I have made ```three visualizations:```
+
+- ```KPI And Other Insights:```
+  https://public.tableau.com/views/ECommerceConsumerBehaviourAnalysis-KPIOtherInsights/KPIAndOtherInsights2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- ```Demographics Impact on Social Media Influence:```
+   https://public.tableau.com/views/ECommerceConsumerBehaviourAnalysis-DemographicsImpactonSocialMediaInfluence/DemographicsImpactonSocialMediaInfluence2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- ``` Consumer Behaviour Insights:``` https://public.tableau.com/views/ECommerceConsumerBehaviourAnalysis-ConsumerBehaviourInsights/ConsumerBehaviorInsights2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 ## Findings
+
 
 ## Limitations and Assumptions
 
