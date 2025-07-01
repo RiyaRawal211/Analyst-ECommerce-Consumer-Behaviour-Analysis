@@ -30,11 +30,36 @@ As a Business Analyst, I have conducted comprehensive data cleaning, exploratory
 
 
 ## Data Sources
+This is  a Comprehensive Dataset for Analyzing Shopping Trends and Preferences taken from kaggle
 https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
 
 ## Tools Used
+```Cleaning and Preparation:``` Excel and Python programming language is used for data cleaning and preparation. 
 
-## Data Cleaning and Preparation
+```Exploratory Data Analysis:``` Python is utilized for data analysis and insights extraction.
+
+```Visualizations:``` Tableau is used to effectively display findings.
+
+```Presentation:``` Google Slides were employed to create a simplified explanation of the entire process, ensuring easy understanding even for those unfamiliar with data analysis.
+
+# Data Cleaning and Preparation
+### Excel: 
+ Explored the data, checked for types of values what each column was having. 
+Applied sorting and checked those values individually to get better insights of data. 
+
+### Python:
+- Checked Structure, shape, Column Names, and data type.
+- Standardised all the column names with ```Strip``` , ```lower```, ```replace```
+-  In purchase_amount (removed $ and commas, converted to float)
+-  In time_of_purchase (Converted to datetime format)
+-  Converted all the columns which had string values (like 'gender', 'income_level', etc) to ```Category```.
+-  Converted product_rating to float.
+-  Standardised the Column names with ```col.title()```
+-  Standardised all the data of columns which hadcategory datatype.
+-  Removed all the duplicates.
+-  Defined a function ```normalize_text``` to fix Encoding issues of column 'Location'.
+-  Handled Missing Values of Columns : ```Social_Media_Influence```, ```Engagement_With_Ads``` by assigning them unknown as they were more than 25%.
+-  Added two new columns: Purchase_Day,	Is_Weekend for better analysis.
 
 ## Exploratory Data Analysis
 
