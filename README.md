@@ -21,9 +21,12 @@
 ## Project Overview
 In the highly competitive world of e-commerce, businesses must do more than attract website visitors — they must understand their customers’ behaviors, preferences, and decision-making patterns to remain profitable and sustainable.
 
-This project focuses on analyzing consumer behavior using an e-commerce dataset that includes customer demographics, purchase patterns, loyalty indicators, return behavior, and engagement signals. The objective is to extract actionable insights that can help optimize marketing strategies, improve customer satisfaction, and enhance revenue generation.
+This project focuses on analyzing consumer behavior of an e-commerce dataset that includes customer demographics, purchase patterns, loyalty indicators, return rate , and engagement with ads. 
 
-As a Business Analyst, I conducted comprehensive data cleaning, exploratory data analysis (EDA), and developed key performance indicators (KPIs). Visualizations were created to highlight customer segments, behavioral trends, and business-impacting patterns. The final outcomes were summarized in an interactive dashboard using Tableau, enabling data-driven decision-making for stakeholders.
+# Objective:
+The objective is to extract actionable insights that can help optimize marketing strategies, improve customer satisfaction, and enhance revenue generation.
+
+As a Business Analyst, I have conducted comprehensive data cleaning, exploratory data analysis (EDA), and developed key performance indicators (KPIs). Visualizations were created to highlight customer segments, behavioral trends, and business-impacting patterns. The final outcomes were summarized in an interactive dashboard using Tableau, enabling data-driven decision-making for stakeholders.
 
 
 ## Data Sources
