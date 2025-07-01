@@ -69,38 +69,27 @@ Applied sorting and checked those values individually to get better insights of 
 -Retail and E-commerce Insights: Analyze purchase channels, payment methods, and shipping preferences to optimize marketing and sales strategies.
 
 
-1. Which customer segments generate the highest purchase amount and loyalty?
-2. Which customer segments generate the highest loyalty?
-3. How does occupation or income level influence purchase intent and frequency?
-4. What are the key drivers of customer satisfaction?
-5. Which purchase categories are most sensitive to discounts?
-6. When do customers purchase the most: weekend vs weekday?
-7. Which type of devices lead to higher conversion rates?
-8.  Which payment methods lead to higher conversion rates?
-9. How does time spent on product research affect satisfaction and returns?
-10. Does social media influence vary by demographic group?
-
-
 
 ## Market Analysis Based on Customer Segmentation:
-### Which customer segments generate the highest purchase amount and loyalty?
-### Which customer segments generate the highest loyalty?
-
+- Which customer segments generate the highest purchase amount and loyalty?
+- Which customer segments generate the highest loyalty?
 
 ## Predictive Analytics:
-
+- What are the key drivers of customer satisfaction?
+- How does time spent on product research affect satisfaction and returns?
+- Which purchase categories are most sensitive to discounts?
 
 ## Time-related Patterns
-### When do customers purchase the most: weekend vs weekday?
-
-
+- When do customers purchase the most: weekend vs weekday?
 
 ## Customer Profiling:
-
+- Does social media influence vary by demographic group?
 
 
 ## Retail and E-commerce Insights:
-
+- Which type of devices lead to higher conversion rates?
+- Which payment methods lead to higher conversion rates?
+- How does occupation or income level influence purchase intent and frequency?
 
 
 ## Data Visualization
