@@ -21,7 +21,7 @@
 ## Project Overview
 In the highly competitive world of e-commerce, businesses must do more than attract website visitors — they must understand their customers’ behaviors, preferences, and decision-making patterns to remain profitable and sustainable.
 
-This project focuses on analyzing consumer behavior of an e-commerce dataset that includes customer demographics, purchase patterns, loyalty indicators, return rate , and engagement with ads. 
+ This project focuses on purchasing patterns, demographics, product preferences, customer satisfaction, and more, making it ideal for market segmentation, predictive modeling, and understanding customer decision-making processes.
 
 # Objective:
 The objective is to extract actionable insights that can help optimize marketing strategies, improve customer satisfaction, and enhance revenue generation.
@@ -62,14 +62,46 @@ Applied sorting and checked those values individually to get better insights of 
 -  Added two new columns: Purchase_Day,	Is_Weekend for better analysis.
 
 ## Exploratory Data Analysis
+### Use Cases:
+-Market Segmentation: Segment customers based on demographics, preferences, and behavior.
+-Predictive Analytics: Use data to predict customer spending habits, loyalty, and product preferences.
+-Customer Profiling: Build detailed profiles of different consumer segments based on purchase behavior, social media influence, and decision-making patterns.
+-Retail and E-commerce Insights: Analyze purchase channels, payment methods, and shipping preferences to optimize marketing and sales strategies.
 
-## Customer Segmentation
 
-## Product Purchase Insights
+1. Which customer segments generate the highest purchase amount and loyalty?
+2. Which customer segments generate the highest loyalty?
+3. How does occupation or income level influence purchase intent and frequency?
+4. What are the key drivers of customer satisfaction?
+5. Which purchase categories are most sensitive to discounts?
+6. When do customers purchase the most: weekend vs weekday?
+7. Which type of devices lead to higher conversion rates?
+8.  Which payment methods lead to higher conversion rates?
+9. How does time spent on product research affect satisfaction and returns?
+10. Does social media influence vary by demographic group?
+
+
+
+## Market Analysis Based on Customer Segmentation:
+### Which customer segments generate the highest purchase amount and loyalty?
+### Which customer segments generate the highest loyalty?
+
+
+## Predictive Analytics:
+
 
 ## Time-related Patterns
+### When do customers purchase the most: weekend vs weekday?
 
-## Cart Analysis
+
+
+## Customer Profiling:
+
+
+
+## Retail and E-commerce Insights:
+
+
 
 ## Data Visualization
 
