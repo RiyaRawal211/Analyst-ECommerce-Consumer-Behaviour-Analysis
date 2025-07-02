@@ -107,6 +107,8 @@ I have made ```three visualizations:```
 
 
 ## Findings
+📊 [View Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1cSv68ydSse_6y8mKTV6svWxxf-qjB6ulk7xhdi_mc54/view?usp=sharing)
+
 
 
 ## Limitations and Assumptions
