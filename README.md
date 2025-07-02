@@ -12,7 +12,7 @@
 - [Cart Analysis](#cart-analysis)
 - [Data Visualization](#data-visualization)
 - [Findings](#findings)
-- [Limitations and Assumptions](#limitations-and-assumptions)
+- [Limitations](#limitations)
 - [Recommendations to Ecommerce Store and Conclusion](#recommendations-to-ecommerce-store-and-conclusion)
 - [References](#references)
 
@@ -111,7 +111,13 @@ I have made ```three visualizations:```
 
 
 
-## Limitations and Assumptions
+## Limitations
+- The dataset lacks detailed timestamp data.
+- No marketing or campaign attribution.
+- Analysis is based on a static snapshot of data, which does not reflect long-term behavioral shifts or seasonality.
+- The dataset lacks competitor pricing, promotions, or product comparisons, limiting cross-market understanding.
+- No consumer's history.
+- Analysis assumes data is accurate and complete—missing or mislabeled data could bias results.
 
 ## Recommendations to Ecommerce Store and Conclusion
 
@@ -125,32 +131,8 @@ In a competitive digital marketplace, e-commerce companies face a growing challe
 
 This project addresses this challenge by analyzing customer behavior data to uncover key patterns and trends that affect purchasing habits, loyalty, satisfaction, and engagement. The analysis helps bridge the gap between raw consumer data and actionable business intelligence.
 
-# Solution Approach
-Cleaning the data
-Clean and standardize the data for analysis
-
-Identify trends across customer segments
-
-Measure the impact of discounts, loyalty programs, shipping preferences, and digital engagement
-
-Derive and track critical KPIs (e.g., repeat customer rate, average purchase value, return rate)
-
-Visualize insights through a comprehensive Tableau dashboard for business decision-makers
 
 
 
 
 
-
-
-
-# Analyst-ECommerce-Consumer-Behaviour-Analysis
-1. Which customer segments generate the highest purchase amount and loyalty?
-2. How does occupation or income level influence purchase intent and frequency?
-3. What are the key drivers of customer satisfaction?
-4. Which purchase categories are most sensitive to discounts?
-5. When do customers purchase the most: weekend vs weekday?
-6. Which type of devices lead to higher conversion rates?
-7.  Which payment methods lead to higher conversion rates?
-8. How does time spent on product research affect satisfaction and returns?
-9. Does social media influence vary by demographic group?
