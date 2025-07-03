@@ -6,15 +6,18 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Customer Segmentation](#customer-segmentation)
-- [Product Purchase Insights](#product-purchase-insights)
-- [Time-related Patterns](#time-related-patterns)
-- [Cart Analysis](#cart-analysis)
 - [Data Visualization](#data-visualization)
 - [Findings](#findings)
 - [Limitations](#limitations)
 - [Recommendations to Ecommerce Store and Conclusion](#recommendations-to-ecommerce-store-and-conclusion)
-- [References](#references)
+
+
+
+
+## Business Problem Statement
+In a competitive digital marketplace, e-commerce companies face a growing challenge: understanding the underlying factors that influence customer behavior in order to optimize marketing strategies, improve customer satisfaction, and reduce return rates. Simply tracking transactions is no longer sufficient — businesses must gain deeper insights into who their customers are, what drives their decisions, and how those decisions impact profitability.
+
+This project addresses this challenge by analyzing customer behavior data to uncover key patterns and trends that affect purchasing habits, loyalty, satisfaction, and engagement. The analysis helps bridge the gap between raw consumer data and actionable business intelligence.
 
 
 
@@ -29,9 +32,13 @@ The objective is to extract actionable insights that can help optimize marketing
 As a Business Analyst, I have conducted comprehensive data cleaning, exploratory data analysis (EDA), and developed key performance indicators (KPIs). Visualizations were created to highlight customer segments, behavioral trends, and business-impacting patterns. The final outcomes were summarized in an interactive dashboard using Tableau, enabling data-driven decision-making for stakeholders.
 
 
+
+
 ## Data Sources
 This is  a Comprehensive Dataset for Analyzing Shopping Trends and Preferences taken from kaggle
 https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior-analysis-data
+
+
 
 ## Tools Used
 ```Cleaning and Preparation:``` Excel and Python programming language is used for data cleaning and preparation. 
@@ -41,6 +48,8 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 ```Visualizations:``` Tableau is used to effectively display findings.
 
 ```Presentation:``` Google Slides were employed to create a simplified explanation of the entire process, ensuring easy understanding even for those unfamiliar with data analysis.
+
+
 
 # Data Cleaning and Preparation
 ### Excel: 
@@ -60,6 +69,9 @@ Applied sorting and checked those values individually to get better insights of 
 -  Defined a function ```normalize_text``` to fix Encoding issues of column 'Location'.
 -  Handled Missing Values of Columns : ```Social_Media_Influence```, ```Engagement_With_Ads``` by assigning them unknown as they were more than 25%.
 -  Added two new columns: Purchase_Day,	Is_Weekend for better analysis.
+
+
+
 
 ## Exploratory Data Analysis
 ### Use Cases:
@@ -128,10 +140,6 @@ I have made ```three visualizations:```
 
 
 
-## Business Problem Statement
-In a competitive digital marketplace, e-commerce companies face a growing challenge: understanding the underlying factors that influence customer behavior in order to optimize marketing strategies, improve customer satisfaction, and reduce return rates. Simply tracking transactions is no longer sufficient — businesses must gain deeper insights into who their customers are, what drives their decisions, and how those decisions impact profitability.
-
-This project addresses this challenge by analyzing customer behavior data to uncover key patterns and trends that affect purchasing habits, loyalty, satisfaction, and engagement. The analysis helps bridge the gap between raw consumer data and actionable business intelligence.
 
 
 
