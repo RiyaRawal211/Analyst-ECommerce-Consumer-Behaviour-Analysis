@@ -134,7 +134,9 @@ I have made ```three visualizations:```
 - Analysis assumes data is accurate and complete—missing or mislabeled data could bias results.
 
 ## Recommendations to Ecommerce Store and Conclusion
-[📊 View Project Presentation](https://docs.google.com/presentation/d/1mlCu9diZBTaS7nTDd0VCtNe6us_e7zkvzHdt_8nvyMw/edit?usp=sharing)
+- [📄 View Recommendations Report](Recommendations_Report.pdf)
+- or
+- [📊 View Project Presentation](https://docs.google.com/presentation/d/1mlCu9diZBTaS7nTDd0VCtNe6us_e7zkvzHdt_8nvyMw/edit?usp=sharing)
 
 
 
