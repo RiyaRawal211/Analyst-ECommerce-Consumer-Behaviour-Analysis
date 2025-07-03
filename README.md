@@ -122,9 +122,9 @@ I have made ```three visualizations:```
 
 
 ## Findings
-- [Here](Findings_Report.pdf)
+- [Here on GitHub](Findings_Report.pdf)
 - or
-- 📊 [View Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1cSv68ydSse_6y8mKTV6svWxxf-qjB6ulk7xhdi_mc54/view?usp=sharing)
+- 📊 [View Project Findings (Google Slides)](https://docs.google.com/presentation/d/1cSv68ydSse_6y8mKTV6svWxxf-qjB6ulk7xhdi_mc54/view?usp=sharing)
 
 
 
@@ -137,9 +137,9 @@ I have made ```three visualizations:```
 - Analysis assumes data is accurate and complete—missing or mislabeled data could bias results.
 
 ## Recommendations to Ecommerce Store and Conclusion
-- [Here](Recommendations_Report.pdf)
+- [Here on GitHub](Recommendations_Report.pdf)
 - or
-- [View Project Presentation](https://docs.google.com/presentation/d/1mlCu9diZBTaS7nTDd0VCtNe6us_e7zkvzHdt_8nvyMw/edit?usp=sharing)
+- [View Project Recommendations (Google Slides)](https://docs.google.com/presentation/d/1mlCu9diZBTaS7nTDd0VCtNe6us_e7zkvzHdt_8nvyMw/edit?usp=sharing)
 
 
 
