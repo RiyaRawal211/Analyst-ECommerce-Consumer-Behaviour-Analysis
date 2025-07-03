@@ -53,7 +53,6 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 
 # Data Cleaning and Preparation
 
-[ Explore Data Cleaning File](Ecommerce%20Data%20Cleaning.ipynb)
 
 ### Excel: 
  Explored the data, checked for types of values what each column was having. 
@@ -74,10 +73,11 @@ Applied sorting and checked those values individually to get better insights of 
 -  Added two new columns: Purchase_Day,	Is_Weekend for better analysis.
 
 
+[ Explore Data Cleaning File](Ecommerce%20Data%20Cleaning.ipynb)
 
 
 ## Exploratory Data Analysis
-📊 [Explore EDA Files](./EDA/)
+
 
 
 ### Use Cases:
@@ -109,7 +109,7 @@ Applied sorting and checked those values individually to get better insights of 
 - Which payment methods lead to higher conversion rates?
 - How does occupation influence purchase frequency?
 
-
+📊 [Explore EDA Files](./EDA/)
 
 
 ## Data Visualization
