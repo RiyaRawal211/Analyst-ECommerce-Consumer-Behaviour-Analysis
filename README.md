@@ -104,7 +104,7 @@ Applied sorting and checked those values individually to get better insights of 
 ### Retail and E-commerce Insights:
 - Which type of devices lead to higher conversion rates?
 - Which payment methods lead to higher conversion rates?
-- How does occupation or income level influence purchase intent and frequency?
+- How does occupation influence purchase frequency?
 
 ```Check out EDA here:``` 
 
