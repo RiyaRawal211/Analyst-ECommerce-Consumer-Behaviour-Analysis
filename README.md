@@ -75,10 +75,10 @@ Applied sorting and checked those values individually to get better insights of 
 
 ## Exploratory Data Analysis
 ### Use Cases:
--Market Segmentation: Segment customers based on demographics, preferences, and behavior.
--Predictive Analytics: Use data to predict customer spending habits, loyalty, and product preferences.
--Customer Profiling: Build detailed profiles of different consumer segments based on purchase behavior, social media influence, and decision-making patterns.
--Retail and E-commerce Insights: Analyze purchase channels, payment methods, and shipping preferences to optimize marketing and sales strategies.
+- Market Segmentation: Segment customers based on demographics, preferences, and behavior.
+- Predictive Analytics: Use data to predict customer spending habits, loyalty, and product preferences.
+- Customer Profiling: Build detailed profiles of different consumer segments based on purchase behavior, social media influence, and decision-making patterns.
+- Retail and E-commerce Insights: Analyze purchase channels, payment methods, and shipping preferences to optimize marketing and sales strategies.
 
 
 
