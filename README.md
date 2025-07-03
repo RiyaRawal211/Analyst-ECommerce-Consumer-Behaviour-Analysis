@@ -82,23 +82,23 @@ Applied sorting and checked those values individually to get better insights of 
 
 
 
-## Market Analysis Based on Customer Segmentation:
+### Market Analysis Based on Customer Segmentation:
 - Which customer segments generate the highest purchase amount and loyalty?
 - Which customer segments generate the highest loyalty?
 
-## Predictive Analytics:
+### Predictive Analytics:
 - What are the key drivers of customer satisfaction?
 - How does time spent on product research affect satisfaction and returns?
 - Which purchase categories are most sensitive to discounts?
 
-## Time-related Patterns
+### Time-related Patterns
 - When do customers purchase the most: weekend vs weekday?
 
-## Customer Profiling:
+### Customer Profiling:
 - Does social media influence vary by demographic group?
 
 
-## Retail and E-commerce Insights:
+### Retail and E-commerce Insights:
 - Which type of devices lead to higher conversion rates?
 - Which payment methods lead to higher conversion rates?
 - How does occupation or income level influence purchase intent and frequency?
@@ -135,7 +135,7 @@ I have made ```three visualizations:```
 [📊 View Project Presentation](https://docs.google.com/presentation/d/1mlCu9diZBTaS7nTDd0VCtNe6us_e7zkvzHdt_8nvyMw/edit?usp=sharing)
 
 
-## References
+
 
 
 
