@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 
 # Data Cleaning and Preparation
 
-[ Here](Ecommerce%20Data%20Cleaning.ipynb)
+[ Explore Data Cleaning File](Ecommerce%20Data%20Cleaning.ipynb)
 
 ### Excel: 
  Explored the data, checked for types of values what each column was having. 
@@ -77,6 +77,9 @@ Applied sorting and checked those values individually to get better insights of 
 
 
 ## Exploratory Data Analysis
+📊 [Explore EDA Files](./EDA/)
+
+
 ### Use Cases:
 - Market Segmentation: Segment customers based on demographics, preferences, and behavior.
 - Predictive Analytics: Use data to predict customer spending habits, loyalty, and product preferences.
@@ -106,7 +109,7 @@ Applied sorting and checked those values individually to get better insights of 
 - Which payment methods lead to higher conversion rates?
 - How does occupation influence purchase frequency?
 
-```Check out EDA here:``` 
+
 
 
 ## Data Visualization
