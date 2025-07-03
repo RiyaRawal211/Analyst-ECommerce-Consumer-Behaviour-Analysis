@@ -1,6 +1,6 @@
 ## 📑 Table of Contents
 
-
+- [Business Problem Statement](#business-problem-statement)
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
@@ -128,7 +128,7 @@ I have made ```three visualizations:```
 
 
 
-# Business Problem Statement
+## Business Problem Statement
 In a competitive digital marketplace, e-commerce companies face a growing challenge: understanding the underlying factors that influence customer behavior in order to optimize marketing strategies, improve customer satisfaction, and reduce return rates. Simply tracking transactions is no longer sufficient — businesses must gain deeper insights into who their customers are, what drives their decisions, and how those decisions impact profitability.
 
 This project addresses this challenge by analyzing customer behavior data to uncover key patterns and trends that affect purchasing habits, loyalty, satisfaction, and engagement. The analysis helps bridge the gap between raw consumer data and actionable business intelligence.
