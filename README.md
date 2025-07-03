@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/salahuddinahmedshuvo/ecommerce-consumer-behavior
 
 # Data Cleaning and Preparation
 
-[🧹 View Ecommerce Data Cleaning Notebook](Ecommerce%20Data%20Cleaning.ipynb)
+[ Ecommerce Data Cleaning Notebook](Ecommerce%20Data%20Cleaning.ipynb)
 
 ### Excel: 
  Explored the data, checked for types of values what each column was having. 
