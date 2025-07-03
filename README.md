@@ -110,7 +110,6 @@ Applied sorting and checked those values individually to get better insights of 
 
 
 ## Data Visualization
-## 📊 Interactive Dashboards
 
 🌐 [My Tableau Account](https://public.tableau.com/app/profile/riya.rawal/vizzes)
 
